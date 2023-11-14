@@ -12,7 +12,11 @@ namespace TaTeti
 {
     public partial class Form1 : Form
     {
+
+        // Lista botones
         List<Button> listaBotones = new List<Button>();
+
+        // variables
         int Turno = 0;
         int Movimientos = 0;
 
@@ -27,6 +31,8 @@ namespace TaTeti
             ActualizarlblTurno();
         }
 
+
+        // Crear Botones
         void CrearControles()
         {
             int left = 50;
@@ -56,6 +62,8 @@ namespace TaTeti
             }
         }
 
+
+        // Jugabilidad y chequeo de ganador
         void OnClickBoton(object sender, EventArgs eventArgs)
         {
             Button boton = (Button)sender;
@@ -91,6 +99,8 @@ namespace TaTeti
             lblTurno.Text = "Turno: Jugador " + (Turno + 1);
         }
 
+
+        // Comprobar ganador
         bool CheckGanador()
         {
             if ((!string.IsNullOrEmpty(listaBotones[0].Text) && listaBotones[0].Text == listaBotones[1].Text && listaBotones[1].Text == listaBotones[2].Text)
@@ -107,6 +117,8 @@ namespace TaTeti
             return false;
         }
 
+        //Reiniciar
+
         private void ReiniciarJuego()
         {
             Turno = 0;
@@ -118,11 +130,6 @@ namespace TaTeti
             }
 
             ActualizarlblTurno();
-        }
-
-        private void lblMovimientos_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }

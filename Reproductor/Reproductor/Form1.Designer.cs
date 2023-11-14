@@ -89,7 +89,6 @@
             this.lblListaArchivos.Name = "lblListaArchivos";
             this.lblListaArchivos.Size = new System.Drawing.Size(294, 420);
             this.lblListaArchivos.TabIndex = 2;
-            this.lblListaArchivos.SelectedIndexChanged += new System.EventHandler(this.listBox1_SelectedIndexChanged);
             // 
             // lblNombreArchivo
             // 

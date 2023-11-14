@@ -30,12 +30,6 @@ namespace Reproductor
         //Variables que almacenan el numero del archivo actual
         int archivoActual = 0;
 
-
-        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
-
         private void CargarCarpetaEvent(object sender, EventArgs e)
         {
             //Media player parar
@@ -64,13 +58,6 @@ namespace Reproductor
         {
 
         }
-
-        //metodo para mostrar los archivos
-        /*private void MuestraNombreArchivo(Label nombre)
-        {
-            string file = Path.GetFileName(lblListaArchivos.SelectedItem.ToString());
-            nombre.Text = "Reproduccion actual " + file;
-        }*/
 
         //Metodo cargar archivos
         private void CargarListaArchivos()
