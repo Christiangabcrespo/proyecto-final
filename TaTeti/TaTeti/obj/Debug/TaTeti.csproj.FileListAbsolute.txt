@@ -1,0 +1,10 @@
+C:\Users\Christian\source\repos\TaTeti\TaTeti\bin\Debug\TaTeti.exe.config
+C:\Users\Christian\source\repos\TaTeti\TaTeti\bin\Debug\TaTeti.exe
+C:\Users\Christian\source\repos\TaTeti\TaTeti\bin\Debug\TaTeti.pdb
+C:\Users\Christian\source\repos\TaTeti\TaTeti\obj\Debug\TaTeti.csproj.AssemblyReference.cache
+C:\Users\Christian\source\repos\TaTeti\TaTeti\obj\Debug\TaTeti.Form1.resources
+C:\Users\Christian\source\repos\TaTeti\TaTeti\obj\Debug\TaTeti.Properties.Resources.resources
+C:\Users\Christian\source\repos\TaTeti\TaTeti\obj\Debug\TaTeti.csproj.GenerateResource.cache
+C:\Users\Christian\source\repos\TaTeti\TaTeti\obj\Debug\TaTeti.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\TaTeti\TaTeti\obj\Debug\TaTeti.exe
+C:\Users\Christian\source\repos\TaTeti\TaTeti\obj\Debug\TaTeti.pdb

@@ -1,0 +1,15 @@
+C:\Users\Christian\source\repos\Reproductor\Reproductor\bin\Debug\Reproductor.exe.config
+C:\Users\Christian\source\repos\Reproductor\Reproductor\bin\Debug\Reproductor.exe
+C:\Users\Christian\source\repos\Reproductor\Reproductor\bin\Debug\Reproductor.pdb
+C:\Users\Christian\source\repos\Reproductor\Reproductor\bin\Debug\Interop.WMPLib.dll
+C:\Users\Christian\source\repos\Reproductor\Reproductor\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Christian\source\repos\Reproductor\Reproductor\obj\Debug\Reproductor.csproj.AssemblyReference.cache
+C:\Users\Christian\source\repos\Reproductor\Reproductor\obj\Debug\Interop.WMPLib.dll
+C:\Users\Christian\source\repos\Reproductor\Reproductor\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Christian\source\repos\Reproductor\Reproductor\obj\Debug\Reproductor.csproj.ResolveComReference.cache
+C:\Users\Christian\source\repos\Reproductor\Reproductor\obj\Debug\Reproductor.Form1.resources
+C:\Users\Christian\source\repos\Reproductor\Reproductor\obj\Debug\Reproductor.Properties.Resources.resources
+C:\Users\Christian\source\repos\Reproductor\Reproductor\obj\Debug\Reproductor.csproj.GenerateResource.cache
+C:\Users\Christian\source\repos\Reproductor\Reproductor\obj\Debug\Reproductor.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\Reproductor\Reproductor\obj\Debug\Reproductor.exe
+C:\Users\Christian\source\repos\Reproductor\Reproductor\obj\Debug\Reproductor.pdb
